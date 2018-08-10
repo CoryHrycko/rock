@@ -1,3 +1,5 @@
+window.onload = function(){ 
+    // your code 
 var myArray = [
   "Rock",
   "Paper",
@@ -52,4 +54,5 @@ var compare = function(uC,cP){
 }
 var results = compare(uC, cP)
   document.write('<p><br><hr><br>' + results);
+}
 }
