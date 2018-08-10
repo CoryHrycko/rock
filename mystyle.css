@@ -1,0 +1,24 @@
+Html,body {
+  text-align: Center;
+  font-family: Lobster, Helvetica, sans-serif;
+}
+#btn {
+  font-family: Lobster, Helvetica, sans-serif;
+  Font-size: 1.001em;
+}
+#RPS{
+  Font-size: 2em;
+  Margin: 2em;
+}
+uC {
+   text-align: Center;
+}
+
+#game {
+  Font-size: 3em;
+}
+
+#js{
+  Font-size: 2em;
+  font-family: Lobster, Helvetica, sans-serif;
+}
