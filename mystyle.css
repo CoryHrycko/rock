@@ -2,23 +2,28 @@ Html,body {
   text-align: Center;
   font-family: Lobster, Helvetica, sans-serif;
 }
-#btn {
+#btn1,#btn2 {
   font-family: Lobster, Helvetica, sans-serif;
-  Font-size: 1.001em;
+  Font-size: 3vw;
 }
+/*#btn1,#btn2:hover {
+    max-width: 22vw;
+    max-height: 22vw;
+    opacity: 1;
+    transition: all 500ms;
+*/
 #RPS{
-  Font-size: 2em;
-  Margin: 2em;
+  Font-size: 2vw;
+  Margin: 2vw;
 }
 uC {
    text-align: Center;
 }
-
 #game {
-  Font-size: 3em;
+  Font-size: 3vw;
 }
 
 #js{
-  Font-size: 2em;
+  Font-size: 2vw;
   font-family: Lobster, Helvetica, sans-serif;
 }
